@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaquebrighenti
-- 👀 I’m interested in computer science adn programming.
+- 👀 I’m interested in computer science.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 📫 How to reach me: isaque.brighenti@hotmail.com
 
