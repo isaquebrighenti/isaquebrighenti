@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaquebrighenti
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and React.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Node, Sass and React.
 - 📫 How to reach me: isaque.brighenti@hotmail.com
 
 <!---
